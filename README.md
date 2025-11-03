@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://miro.medium.com/1*URVbNQirYASEkRkZPRSv4A.gif" width="400" alt="Coding GIF" />
 
   ### 🚀 Passionate Quality Assurance Engineer & Test Automation Specialist
 
