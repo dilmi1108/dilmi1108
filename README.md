@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://miro.medium.com/1*URVbNQirYASEkRkZPRSv4A.gif" width="400" alt="Coding GIF" />
 
-  ### 🚀 Passionate Quality Assurance Engineer & Test Automation Specialist
+   🚀 Passionate Quality Assurance Engineer & Test Automation Specialist
 
   <p>
     ✅ Dedicated to delivering quality software through robust testing<br/>
